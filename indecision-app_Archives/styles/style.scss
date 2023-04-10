@@ -1,0 +1,16 @@
+// from: indecision-app/public/
+$brand-color: #ffff00;
+$brand-bgcolor : #941598;
+
+* {
+    background-color: $brand-bgcolor ;
+    color: $brand-color;
+}
+
+html {
+    color: #941598;
+}
+
+.selectionDisplay {
+    color: yellowgreen;
+}
